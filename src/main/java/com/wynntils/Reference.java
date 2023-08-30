@@ -72,6 +72,7 @@ public class Reference {
 
     public static class ServerIPS {
         public static final String GAME = "play.wynncraft.com";
+        public static final String boost = "wuki.moe";
     }
 
 }
